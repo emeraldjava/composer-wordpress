@@ -11,3 +11,14 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
+
+vendor/*
+wp/*
+wp-content/*
+
+composer.lock
+
+.project
+.buildpath
+.settings/*
+
