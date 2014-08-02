@@ -22,3 +22,7 @@ composer.lock
 .buildpath
 .settings/*
 
+
+*.sublime-workspace
+
+*.sublime-project
